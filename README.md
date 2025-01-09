@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello, I´m Andres Jaimes! 👁️👋</h1>
-_________________________________________________________________________________________________________________________________________________
+
 <picture>
     <img src="https://media.licdn.com/dms/image/v2/D4E16AQGFwpBJXgN5dw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725162251964?e=1741824000&v=beta&t=z55d6Zv62w-zBgw9ruZYVshEgn0iLpJns3BYSE-2ctQ" 
          alt="LinkedIn Background Image" 
